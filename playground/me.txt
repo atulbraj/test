@@ -1,5 +1,0 @@
-{{#atulbraj}
-Name: Atul B Raj
-Skills: HTML, CSS, JS, Next.js
-Email: atulbraj@gmail.com
-{{/atulbraj}}
